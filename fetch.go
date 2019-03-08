@@ -1,3 +1,4 @@
+// Fetches the content of the url.
 package main
 
 import (
